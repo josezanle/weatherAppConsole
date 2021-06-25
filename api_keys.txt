@@ -1,8 +1,0 @@
-open map:
-pk.eyJ1Ijoiam96ZTQ0emVybyIsImEiOiJja3FjMm16ODAwcmgxMm5tdXpvNHoxNTR0In0.qrPDDgDfbZJu7hDumw28gg
-
-mapBox_key
-pk.eyJ1Ijoiam96ZTQ0emVybyIsImEiOiJja3FjYWJhZ2MwN201MnVteGdpZHVxYzZwIn0.QyhFVJ5Ci6MfHfQLNBgmmA 
-
-weather:
-5f2699df4b84b441ca43c87bd28da369
